@@ -88,7 +88,7 @@ Each notebook is self-contained — dependencies and any required setup are note
 
 ---
 
-## 🙏 Credits
+##  Playlists I follow
 
 This learning path follows the excellent free **[NLP Tutorial For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)** playlist by [codebasics](https://www.youtube.com/@codebasics) — notebooks here extend the original exercises with deeper explanations, extra examples, and additional practice problems.
 
